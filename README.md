@@ -2,6 +2,7 @@
 ![Status do Projeto](https://img.shields.io/badge/Status-Projeto%20Conclu%C3%ADdo-32CD32?style=for-the-badge&logo=github)
 
 
+
 ## 👩‍💻 Desenvolvido por Juliana Angelo
 
 Estrutura Recomendada do Repositório GitHub
