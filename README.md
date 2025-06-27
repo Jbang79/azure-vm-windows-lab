@@ -1,4 +1,6 @@
 ## Laboratório Prático: Estabelecendo uma Máquina Virtual Windows no Microsoft Azure
+![Status do Projeto](https://img.shields.io/badge/Status-Projeto%20Conclu%C3%ADdo-32CD32?style=for-the-badge&logo=github)
+
 
 ## 👩‍💻 Desenvolvido por Juliana Angelo
 
